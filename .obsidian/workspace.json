@@ -51,12 +51,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "task/2025-01-28.md",
+                    "file": "2025 새해 목표.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2025-01-28"
+                  "title": "2025 새해 목표"
                 }
               }
             ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#daily_note",
+                "query": "tag:#tasks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,18 +224,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75614f6f8fffa4bf",
+  "active": "8cfb4e49c8d86076",
   "lastOpenFiles": [
-    "task/2025-01-27.md",
-    "task/2025-01-28.md",
     "templates/daily_notes.md",
     "2025 새해 목표.md",
+    "task/2025-01-28.md",
+    "task/2025-01-27.md",
+    "task/2025-01-29.md",
+    "{{tomorrow}}.md",
     "task/2025-01-26.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "task",
-    "{{tomorrow}}.md",
     "templates",
     "습관 기록.md",
     "2025-01-27.md",
