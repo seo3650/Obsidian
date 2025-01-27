@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "task/2025-01-28.md",
+                    "file": "task/2025-01-27.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2025-01-28"
+                  "title": "2025-01-27"
                 }
               },
               {
@@ -51,12 +51,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2025 새해 목표.md",
+                    "file": "task/2025-01-27.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2025 새해 목표"
+                  "title": "2025-01-27"
                 }
               }
             ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tasks",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task/2025-01-28.md",
+                "file": "task/2025-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-28"
+              "title": "Backlinks for 2025-01-27"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task/2025-01-28.md",
+                "file": "task/2025-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-28"
+              "title": "Outgoing links from 2025-01-27"
             }
           },
           {
@@ -180,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "task/2025-01-28.md"
+                "file": "task/2025-01-27.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-28"
+              "title": "Outline of 2025-01-27"
             }
           },
           {
@@ -224,12 +224,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cfb4e49c8d86076",
+  "active": "75614f6f8fffa4bf",
   "lastOpenFiles": [
-    "templates/daily_notes.md",
-    "2025 새해 목표.md",
     "task/2025-01-28.md",
     "task/2025-01-27.md",
+    "2025 새해 목표.md",
+    "templates/daily_notes.md",
     "task/2025-01-29.md",
     "{{tomorrow}}.md",
     "task/2025-01-26.md",
