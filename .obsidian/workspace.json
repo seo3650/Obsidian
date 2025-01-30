@@ -45,12 +45,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "독서 기록/독서 기록.md",
+                    "file": "task/2025-01-27.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "독서 기록"
+                  "title": "2025-01-27"
                 }
               },
               {
@@ -80,12 +80,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "templates/daily_notes.md",
+                    "file": "task/2025-01-30.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "daily_notes"
+                  "title": "2025-01-30"
                 }
               }
             ]
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "독서 기록/독서 기록.md",
+                "file": "task/2025-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 독서 기록"
+              "title": "Backlinks for 2025-01-30"
             }
           },
           {
@@ -182,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "독서 기록/독서 기록.md",
+                "file": "task/2025-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 독서 기록"
+              "title": "Outgoing links from 2025-01-30"
             }
           },
           {
@@ -209,10 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "독서 기록/독서 기록.md"
+                "file": "task/2025-01-30.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 독서 기록"
+              "title": "Outline of 2025-01-30"
             }
           },
           {
@@ -253,14 +253,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dccd57bd8c820f7",
+  "active": "75614f6f8fffa4bf",
   "lastOpenFiles": [
-    "독서 기록/레이 달리오의 원칙.md",
-    "독서 기록/독서 기록.md",
     "templates/daily_notes.md",
+    "task/2025-01-30.md",
     "task/2025-01-27.md",
-    "독서 기록",
+    "2025-01-28.md",
     "2025 새해 목표.md",
+    "회고.md",
+    "독서 기록/독서 기록.md",
+    "독서 기록/레이 달리오의 원칙.md",
+    "독서 기록",
     "ㅁㄴㄹㅁㅇㄴㅇㄹ.md",
     "{{tomorrow}}.md",
     "task/2025-01-28.md",
@@ -273,7 +276,6 @@
     "templates",
     "습관 기록.md",
     "2025-01-27.md",
-    "회고.md",
     "README.md"
   ]
 }
